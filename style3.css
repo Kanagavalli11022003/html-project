@@ -1,0 +1,156 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration: none;
+}
+nav {
+    display:flex;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    justify-content: space-between;
+    align-content: center;
+}
+nav ul {
+    display:flex;
+}
+nav ul {
+    list-style-type:none;
+}
+nav ul li {
+    margin: 0 10px;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white; font-size: medium;  margin-right: 25px;  
+}
+.image_font{
+    background-image: url("1000_F_348397404_wXuf22GUPNAh67htBZZnaDSx3Bj92yep.jpg");
+    background-repeat:no-repeat;
+    height:400px;
+    width:400px;
+    float:left;
+}
+h3{
+    color:azure;
+}
+p{
+    color:azure;
+}
+.image_two{
+    background-image:url("1000_F_578469007_koamsZDAX4ynYE2M3bJAIb5xSy11QWc4.jpeg");
+    background-repeat:no-repeat;
+    height:400px;
+    width:400px;
+    text:center;
+    float:right;
+    text-align:none;
+}
+h3{
+    color:azure;
+    text-align: none;   
+}
+p.one{
+    color:azure;
+    text-align: none;
+}
+.image_three{
+    background-image: url("0_mfUNFSHyrXnH7ZKf.jpeg");
+    background-repeat: no-repeat;
+    height:400px;
+    width:400px;
+    text:center;
+    float:center;
+    text-align: none;
+}
+.image_four{
+    background-image: url("kal-visuals-RCUncjOfNfc-unsplash.jpeg");
+    background-repeat: no-repeat;
+    height:600px;
+    width:1300px;
+    text-align:none;
+    text:center;
+}
+h1{
+    color:azure;
+    text-align: none;
+}
+h5{
+    color:azure;
+    text-align: none;
+}
+.two{
+       color: azure;
+       text-align: none;
+}
+h3{
+    color:black;
+}
+.four{
+    float:left;
+    width:300px;
+    height:400px;
+    text-align: justify;
+}
+.five{
+    float: left;
+    width: 304px;
+    height: 400px;
+    text-align: justify;
+    margin-left: 100px;
+}
+.six{
+   
+    margin-left: 400px;
+    width:300px;
+    height:400px;
+    
+}
+.sim{
+    color:black;
+    text-align: none;
+}
+.sim2{
+    color:black;
+    text-align: none;
+}
+.sim3{
+    color:black;
+    text-align: none;
+}
+.sim4{
+    color:black;
+    text-align: none;
+}
+.ground{
+    color:azure
+    ;
+}
+.ground1{
+    color:azure;
+}
+.ground2{
+    color:azure;
+}
+.navbar ul li{
+    text-decoration: underline;
+}
+.footer_about{
+    color:azure;
+}
+.footer_address{
+    color:azure;
+
+}
+.footer_follow{
+    color:azure;
+}
+
+
+
